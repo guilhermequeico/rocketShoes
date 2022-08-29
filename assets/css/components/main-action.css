@@ -1,0 +1,9 @@
+.main-action {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+}
