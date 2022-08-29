@@ -1,0 +1,9 @@
+.main-search {
+   width: 22rem;
+   height: 4.5rem; 
+}
+
+.main-search .search-bar {
+    width: 100%;
+    height: 100%;
+}
