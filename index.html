@@ -12,6 +12,7 @@
 
         <link rel="stylesheet" href="assets/css/reset.css">
         <link rel="stylesheet" href="assets/css/base.css">
+        <link rel="stylesheet" href="assets/css/components/sr-only.css">
         <link rel="stylesheet" href="assets/css/components/header-menu.css">
         <link rel="stylesheet" href="assets/css/components/main-action.css">
         <link rel="stylesheet" href="assets/css/components/search-bar.css">
@@ -25,6 +26,7 @@
                 <li><a class="main-action" href="">Customizar</a></li>
             </ul>
         </nav>
-        <input class="search-bar" type="search" placeholder="Pesquisar">
+        <label class="sr-only" for="search">Digite sua busca</label>
+        <input class="search-bar" id="search" type="search" placeholder="Pesquisar">
     </body>
 </html>
