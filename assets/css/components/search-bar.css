@@ -1,0 +1,15 @@
+.search-bar {
+    padding-left: 4.2rem;
+    padding-right: 1.3rem;
+    background-color: #FFF;
+    background-image: url(../../img/search-icon.svg);
+    background-repeat: no-repeat;
+    background-position: left 13px center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 1.8rem;
+    line-height: 2.1rem;
+    color: #9C9696;
+    border: none;
+    outline: none;
+}
