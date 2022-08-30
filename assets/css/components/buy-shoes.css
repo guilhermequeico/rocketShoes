@@ -1,0 +1,17 @@
+.buy-shoes {
+    display: inline-block;
+    padding: 3.3rem 8rem;
+    font-weight: 700;
+    font-size: 2.4rem;
+    line-height: 2.8rem;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #FFF;
+    background-color: #F00;
+    transition: transform 100ms cubic-bezier(.45,.97,.68,2.48);
+}
+
+.buy-shoes:hover {
+    transform: scale(1.02);
+}
