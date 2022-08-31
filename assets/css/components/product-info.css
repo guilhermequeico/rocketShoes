@@ -1,0 +1,25 @@
+.product-info {
+    width: 35.7rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2.1rem;
+}
+
+.product-info .main-title {
+    height: 27.2rem;
+}
+
+.product-info .main-subtitle {
+    height: 5.7rem;
+}
+
+.product-info .shoe-price {
+    height: 4.2rem;
+}
+
+.product-info .buy-shoes {
+    width: 27.4rem;
+    height: 9rem;
+    margin-top: .9rem;
+    box-sizing: border-box;
+}
