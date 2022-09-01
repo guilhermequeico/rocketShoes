@@ -1,0 +1,9 @@
+.sneakers-pictures {
+    width: 90rem;
+    height: 91.4rem;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+    background-color: #C4C4C4;
+}
