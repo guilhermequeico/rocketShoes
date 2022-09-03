@@ -1,0 +1,9 @@
+.main-banner {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.main-banner .product-info {
+    margin-top: 10.3rem;
+    margin-left: 11.1rem;
+}
