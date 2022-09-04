@@ -1,0 +1,9 @@
+    .main-footer {
+        max-width: 144rem;
+        height: 16.65rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        position: relative;
+        top: 19.1rem;
+    }
