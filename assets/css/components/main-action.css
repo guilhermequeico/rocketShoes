@@ -7,3 +7,8 @@
     text-transform: uppercase;
     color: #000;
 }
+
+.main-action.-fontSmall {
+    font-size: 1.8rem;
+    line-height: 2.1rem;
+}
