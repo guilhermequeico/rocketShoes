@@ -1,0 +1,9 @@
+.small-pictures {
+    display: inline-block;
+    height: 18.28rem;
+    border-bottom: 5px solid transparent;
+}
+
+.small-pictures.active {
+    border-bottom-color: #F00;
+}
